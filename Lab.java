@@ -6,6 +6,7 @@ public class Lab {
         this.labId=labId;
         this.labName=labName;
         this.feePerDay=feePerDay;
+        
     }
     public String toString(){
         return "lab Id : "+labId;
